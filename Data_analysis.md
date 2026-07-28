@@ -22,7 +22,7 @@ sf::sf_use_s2(FALSE)  # planar ops; Xenium coords are in µm
 # ---------------------------
 # Paths & output folders
 # ---------------------------
-base_dir   <- "/Users/senlab/Documents/FMO/xenium/MARCO_xenium_data"
+base_dir   <- "/path/xenium/MARCO_xenium_data"
 plots_dir  <- file.path(base_dir, "results", "plots")
 tables_dir <- file.path(base_dir, "results", "tables")
 rds_dir    <- file.path(base_dir, "results", "rds")
@@ -31,7 +31,7 @@ dir.create(tables_dir, recursive = TRUE, showWarnings = FALSE)
 dir.create(rds_dir,    recursive = TRUE, showWarnings = FALSE)
 
 # Xenium output folder (edit if needed)
-xenium_path <- "/Users/senlab/Documents/FMO/xenium/20250207__180856__MAC-BFR-Roy-1_02072025/output-XETG00281__0033560__EDT-073_SV1__20250207__180935"
+xenium_path <- "/path/xenium/20250207__180856__MAC-BFR-Roy-1_02072025/output-XETG00281__0033560__EDT-073_SV1__20250207__180935"
 
 # ---------------------------
 # Load Xenium into Seurat
@@ -734,7 +734,6 @@ saveRDS(x,   file.path(rds_dir, "xenium_with_cell_based_niches_r20k5.rds"))
 saveRDS(mph, file.path(rds_dir, "macrophages_CD68_LYZ_umap_res0p2_cleaned.rds"))
 
 message("All done. Plots -> ", plots_dir, " | Tables -> ", tables_dir, " | RDS -> ", rds_dir)
-
 ```
 
 
