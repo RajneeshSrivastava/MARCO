@@ -23,3 +23,18 @@ GSM9375929     Xenium In situ Spatial Gene expression WE EDT-073-SV1_high_BFI
 
 #### Data analysis script 
 Coming soon...
+
+Figures
+Figure 1: Identification of biofilm responsive unique macrophage subsets. 
+scRNA analysis
+Figure 2: Spatial mapping of macrophage transcripts and S. aureus niche in human cutaneous wounds by Xenium in situ.
+Xenium analysis
+Figure 3: Neutralizing MARCO significantly improved biofilm-mediated efferocytosis dysfunction in MDM exposed to BFhi ∆rexB CM.
+Figure 4: MARCO overexpression in myeloid cells impaired dead cell clearance.
+scRNA analysis
+Figure S2: MARCO+ macrophage subsets showed the presence of both pro-inflammatory M1 and pro-resolution M2 markers. 
+scRNA
+Figure S3: Elevated MARCO expression in human patients with non-healing diabetic wounds. 
+scRNA(Bhasin -RS)
+Figure S5: Lyz2-promoter–driven MARCO overexpression via TNT alters macrophage polarization and reshapes WE proteomic signatures in murine skin wounds.
+Akoya analysis
