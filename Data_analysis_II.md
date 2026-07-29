@@ -1,4 +1,4 @@
-#### This file contains the script for stepwise analysis of single cell RNA-seq data, utilised for figures []
+#### This file contains the script for stepwise analysis of single-cell RNA-seq data, utilised for figures []
 
 ```
 setwd('path_to_project')
