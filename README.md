@@ -39,8 +39,7 @@ scRNA analysis
 Figure S2: MARCO+ macrophage subsets showed the presence of both pro-inflammatory M1 and pro-resolution M2 markers. 
 scRNA
 
-Figure S3: Elevated MARCO expression in human patients with non-healing diabetic wounds. 
-scRNA(Bhasin -RS)
+Figure S3: Elevated MARCO expression in human patients with non-healing diabetic wounds. (Data_analysis_III.md)
 
 Figure S5: Lyz2-promoter–driven MARCO overexpression via TNT alters macrophage polarization and reshapes WE proteomic signatures in murine skin wounds.
 Akoya analysis
