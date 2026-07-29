@@ -21,8 +21,8 @@ GSM9375928     Xenium In situ Spatial Gene expression WE EDT-057-SV1_low_BFI
 GSM9375929     Xenium In situ Spatial Gene expression WE EDT-073-SV1_high_BFI
 ```
 
-#### Data analysis script 
-Figures
+#### Data analysis script (Figure-wise)
+
 Figure 1: Identification of biofilm responsive unique macrophage subsets. 
 scRNA analysis
 
